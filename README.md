@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🌱 Cursando Ciências da Computação UFpel.
+- Cursando Ciências da Computação UFpel.
 
 <div align="center">
   <a href="https://github.com/EduardoSchwantz">
