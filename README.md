@@ -1,6 +1,5 @@
 ### Olá, Sou Eduardo!
 - Graduando em Ciências da Computação pela Universidade Federal de Pelotas.
-- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Edu-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
