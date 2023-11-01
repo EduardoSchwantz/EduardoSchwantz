@@ -14,6 +14,3 @@
   
 <a href="https://instagram.com/eduardoschwantz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:eduardo_schwantz@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
-
-![Snake animation](https://github.com/EduardoSchwantz/EduardoSchwantz/blob/output/github-contribution-grid-snake.svg)
-</div>
